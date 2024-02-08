@@ -20,4 +20,4 @@ class TestCalc:
         assert self.calc.adding(self, 1, 1) == 2
 
     def teardown(self):
-        print('Taerdown complete')
+        print('Taerdown')
